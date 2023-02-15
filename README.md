@@ -7,7 +7,7 @@
 ## **📖 Cheat Sheet**
 |**Chap**|**Title**|
 |------|-----|
-|**Ch.01**|[프로그래밍](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/01_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)|
+|**Ch.00**|[프로그래밍](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/01_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D.md)|
 |**Ch.01**|[자바스크립트란?]()|
 |**Ch.02**|[자바스크립트 개발 환경과 실행 방법]()|
 |**Ch.03**|[변수]()|
