@@ -11,7 +11,7 @@
 |**Ch.01**|[자바스크립트란?](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/02_%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%9E%80%3F.md)|
 |**Ch.02**|[자바스크립트 개발 환경과 실행 방법]()|
 |**Ch.03**|[변수](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/04.%EB%B3%80%EC%88%98/04_%EB%B3%80%EC%88%98.md)|
-|**Ch.04**|표현식과 문|
+|**Ch.04**|[표현식과 문](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/04.%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8/04_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8.md)|
 |**Ch.05**|[데이터 타입](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/06.%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/06_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)|
 |**Ch.06**|연산자|
 |**Ch.07**|제어문|
