@@ -13,7 +13,7 @@
 |**Ch.03**|[변수](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/04.%EB%B3%80%EC%88%98/04_%EB%B3%80%EC%88%98.md)|
 |**Ch.04**|[표현식과 문](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/04.%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%20%EB%AC%B8/04_%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC%EB%AC%B8.md)|
 |**Ch.05**|[데이터 타입](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/06.%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%83%80%EC%9E%85/06_%EB%8D%B0%EC%9D%B4%ED%84%B0%ED%83%80%EC%9E%85.md)|
-|**Ch.06**|연산자|
+|**Ch.06**|[연산자](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/06.%EC%97%B0%EC%82%B0%EC%9E%90/06_%EC%97%B0%EC%82%B0%EC%9E%90.md)|
 |**Ch.07**|제어문|
 |**Ch.08**|[타입 변환과 단축 평가](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/08.%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80/08_%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)|
 |**Ch.09**|객체 리터럴|
