@@ -18,7 +18,7 @@
 |**Ch.08**|[타입 변환과 단축 평가](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/08.%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80/08_%ED%83%80%EC%9E%85%EB%B3%80%ED%99%98%EA%B3%BC%EB%8B%A8%EC%B6%95%ED%8F%89%EA%B0%80.md)|
 |**Ch.09**|[객체 리터럴](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/09.%EA%B0%9D%EC%B2%B4%20%EB%A6%AC%ED%84%B0%EB%9F%B4/09_%EA%B0%9D%EC%B2%B4%EB%A6%AC%ED%84%B0%EB%9F%B4.md)|
 |**Ch.10**|[원시 값과 객체의 비교](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/10.%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90/10_%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%EA%B0%9D%EC%B2%B4%EC%9D%98%EB%B9%84%EA%B5%90.md)|
-|**Ch.11**|함수|
+|**Ch.11**|[함수](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/11.%ED%95%A8%EC%88%98/11_%ED%95%A8%EC%88%98.md)|
 |**Ch.12**|스코프|
 |**Ch.13**|전역 변수의 문제점|
 |**Ch.14**|let, const 키워드와 블록 레벨 스코프|
