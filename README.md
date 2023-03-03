@@ -20,7 +20,7 @@
 |**Ch.10**|[원시 값과 객체의 비교](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/10.%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%20%EA%B0%9D%EC%B2%B4%EC%9D%98%20%EB%B9%84%EA%B5%90/10_%EC%9B%90%EC%8B%9C%EA%B0%92%EA%B3%BC%EA%B0%9D%EC%B2%B4%EC%9D%98%EB%B9%84%EA%B5%90.md)|
 |**Ch.11**|[함수](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/11.%ED%95%A8%EC%88%98/11_%ED%95%A8%EC%88%98.md)|
 |**Ch.12**|[스코프](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/12.%EC%8A%A4%EC%BD%94%ED%94%84/12_%EC%8A%A4%EC%BD%94%ED%94%84.md)|
-|**Ch.13**|전역 변수의 문제점|
+|**Ch.13**|[전역 변수의 문제점](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/13.%EC%A0%84%EC%97%AD%20%EB%B3%80%EC%88%98%EC%9D%98%20%EB%AC%B8%EC%A0%9C%EC%A0%90/13_%EC%A0%84%EC%97%AD%EB%B3%80%EC%88%98%EC%9D%98%EB%AC%B8%EC%A0%9C%EC%A0%90.md)|
 |**Ch.14**|let, const 키워드와 블록 레벨 스코프|
 |**Ch.15**|Property Attribute|
 |**Ch.16**|생성자 함수에 의한 객체 생성|
