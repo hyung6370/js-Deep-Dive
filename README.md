@@ -25,7 +25,7 @@
 |**Ch.15**|[Property Attribute](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/15.%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%20%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%8A%B8/15_%ED%94%84%EB%A1%9C%ED%8D%BC%ED%8B%B0%EC%96%B4%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0.md)|
 |**Ch.16**|[생성자 함수에 의한 객체 생성](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/16.%EC%83%9D%EC%84%B1%EC%9E%90%20%ED%95%A8%EC%88%98%EC%97%90%20%EC%9D%98%ED%95%9C%20%EA%B0%9D%EC%B2%B4%20%EC%83%9D%EC%84%B1/16_%EC%83%9D%EC%84%B1%EC%9E%90%ED%95%A8%EC%88%98%EC%97%90%EC%9D%98%ED%95%9C%EA%B0%9D%EC%B2%B4%EC%83%9D%EC%84%B1.md)|
 |**Ch.17**|[함수와 일급 객체](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/17.%ED%95%A8%EC%88%98%EC%99%80%20%EC%9D%BC%EA%B8%89%20%EA%B0%9D%EC%B2%B4/17_%ED%95%A8%EC%88%98%EC%99%80%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4.md)|
-|**Ch.18**|프로토타입|
+|**Ch.18**|[프로토타입](https://github.com/hyung6370/js-Deep-Dive/blob/master/chapter%20cheat/18.%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85/18_%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85.md)|
 |**Ch.19**|strict mode|
 |**Ch.20**|빌트인 객체|
 |**Ch.21**|this|
